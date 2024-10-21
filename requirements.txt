@@ -1,0 +1,13 @@
+# Core Dependencies
+PyPDF2==3.0.1            # For PDF text extraction
+pymongo==4.5.0           # MongoDB client for Python
+nltk==3.8.1              # For keyword extraction (Natural Language Toolkit)
+
+# GUI Dependencies
+tk==0.1.0                # Tkinter package for GUI (Tkinter is included in Python, but added for explicit use)
+
+# Performance and Utility Dependencies
+tqdm==4.66.1             # Progress bar for processing multiple PDFs
+
+# Other Optional Utilities
+click==8.1.3             # Command-line utility for future enhancements
